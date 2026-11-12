@@ -18,8 +18,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "VIDVAuth",
-            url: "https://valify-public-sdks.s3.eu-central-1.amazonaws.com/VIDVAuth/legacy/2.4.0/VIDVAuth.zip",
-            checksum: "da5b6d6bb19d0ec352699eda78211b1de68a51e19542df86ffb51ea40ec816eb"
+            url: "https://valify-public-sdks.s3.eu-central-1.amazonaws.com/VIDVAuth/legacy/2.4.1/VIDVAuth.zip",
+            checksum: "64e27403d707edda7af74b9f8bdebd47d70ebef9074c3ef49d8a05debdce6c2b"
         ),
         .target(
             name: "VIDVAuthDependencies",
